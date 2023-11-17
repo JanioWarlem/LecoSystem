@@ -1,2 +1,2 @@
 # LecoSystem
-Ainda em andamento, paciência uai.
+alterado mais uma vez, pois estou aprendendo git 
