@@ -1,2 +1,2 @@
 # LecoSystem
-Em andamento...
+Ainda em andamento, paciência uai.
